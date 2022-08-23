@@ -1,3 +1,9 @@
 background {
   color: #F3E2C7;
 }
+
+a {
+  font-family: noto-sans, noto-serif;
+  font-size: 1rem;
+  color: FFF9F5;
+}
